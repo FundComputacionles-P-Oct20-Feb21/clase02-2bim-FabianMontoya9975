@@ -10,16 +10,9 @@
 8.  notasEstudiantes[1][1] <-- 5
 9.  notasEstudiantes[1][2] <-- 7
 10. Para(indice<--0, indice<2, 1) haga
-11.   Escribir indice 
-12. Fin_Para 
+11.   Escribir indice // el valor del índice
+12. Fin_Para
 13. Fin
 
 // 0
 // 1
-
-
-
-
-
-
-
